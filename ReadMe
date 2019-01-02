@@ -1,2 +1,3 @@
 通过wininet下载给定url的页面html代码至c++的buffer(string)中。
-再通过gumbo库将其转换为DOM树。
+通过gumbo库将其转换为DOM树。
+再使用DOM树进行分析
